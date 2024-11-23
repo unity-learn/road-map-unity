@@ -15,3 +15,7 @@ E["Scenes<br>GameObjects<br>Prefabs<br>MonoBehaviour<br>Components"]
 B-->E 
 
 ```
+### .Net
+...
+### C#
+Hãy bắt đầu với [C# cơ bản](https://github.com/unity-learn/basic-csharp-for-unity)
