@@ -24,7 +24,7 @@ B-->E
 ### Unity Basic
 - Lần đầu mở Unity Editor lên bạn sẽ thấy rất nhiều cửa sổ được bung ra, và bạn không biết nhiệm vụ của từng cửa sổ đó là gì. Vì thế, bạn sẽ cần tìm hiểu sơ qua về giao diện của Unity Editor và biết được nhiệm vụ của các cửa sổ cơ bản (`Project`, `Console`, `Hierarchy`, `Scene`, `Game`, `Inspector`).
 - Tiếp theo bạn sẽ tìm hiểu về `Scenes`, `GameObject`, `Prefabs`, `MonoBehaviour`, và các `Components` phổ biến như `Transform`, `RigidBody`, `Collider`, ...
-- Sau đó bạn sẽ đến giai đoạn sử dụng script được viết bằng C# để viết ra những thứ logic nhiệm màu cho sản phẩm game của mình, đầy là giai đoạn cần thời gian và sự tích cực tìm tòi nghiên cứu để bạn có thể tích trữ cho bản thân một khối lượng kiến thức và kỹ năng xử lý vấn đề để có sản phẩm game tốt hơn.
+- Sau đó bạn sẽ đến giai đoạn sử dụng script được viết bằng C# để viết ra những thứ logic nhiệm màu cho sản phẩm game của mình. Đây là giai đoạn cần sự tích cực tìm tòi nghiên cứu để bạn có thể tích trữ cho bản thân một khối lượng kiến thức và kỹ năng xử lý vấn đề để có sản phẩm game tốt hơn theo thời gian.
 ### Version Control
 - Bạn sẽ cần một kho lưu trữ dự án (bao gồm asset game như sprite, model, sound, ... và mã nguồn), bạn cần công cụ hỗ trợ để tất cả mọi người trong nhóm có thể làm việc trên cùng một dự án mà không bị xung đột, bạn cần một công cụ ghi nhớ tất cả sự thay đổi trong dự án của mình, ...
 - Ở đây mình chọn [Git/GitHub](https://github.com/unity-learn/Getting-Started-with-Git) là công cụ quản lý và lưu trữ mã nguồn, nó sẽ giúp bạn xử lý tất cả các vấn đề nêu trên và còn nhiều hơn thế nữa. Bạn có thể tìm hiểu cách sử dụng Git/GitHub hoặc bất cứ công cụ nào tương tự phù hợp với bạn.
