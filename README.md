@@ -56,5 +56,22 @@ flowchart TD
 p[Project Architecture]
 b["SOLID<br>KISS<br>DRY<br>..."] --Design principles-->p
 c["Singleton<br>Observer"<br>State<br>Strategy<br>Command<br>ObjectPool<br>...]--Design patterns-->p
-a["<a href='https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html'>MC* Patterns"</a><br>OOP<br>ECS<br>...]--Architectural Patterns-->p
+a["<a href='https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html'>MC* Patterns"</a><br>Dependency injection<br>OOP<br>ECS<br>...]--Architectural Patterns-->p
 ```
+
+### Architectural patterns
+- Tìm hiểu về một số nguyên tắc lập trình như Lập trình hướng đối tượng (OOP), Thiết kế hướng dữ liệu (DOD), ...
+- Tìm hiểu các mẫu [MV*](https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html) (MVC, MVP, MVVM) rất hữu ích
+- Để triển khai dependency injection, hãy tìm hiểu về [DI và IoC](https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns-dp-161729473X/dp/161729473X) . Một khuôn khổ DI được sử dụng rộng rãi cho Unity là [Zenject](https://github.com/modesttree/Zenject)
+- Đối với phát triển trò chơi cốt lõi, phương pháp ECS hiện đang phổ biến nhất. Bạn có thể sử dụng [Unity DOTS](https://unity.com/dots) hoặc các triển khai khác mà bạn thích.
+### Các mẫu thiết kế
+- Singleton
+- Observer
+- State
+- Command
+- ObjectPool
+- Strategy
+### Các nguyên tắc thiết kế
+- SOLID
+- KISS
+- DRY
