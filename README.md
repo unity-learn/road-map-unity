@@ -30,3 +30,10 @@ B-->E
 - Ở đây mình chọn [Git/GitHub](https://github.com/unity-learn/Getting-Started-with-Git) là công cụ quản lý và lưu trữ mã nguồn, nó sẽ giúp bạn xử lý tất cả các vấn đề nêu trên và còn nhiều hơn thế nữa. Bạn có thể tìm hiểu cách sử dụng Git/GitHub hoặc bất cứ công cụ nào tương tự phù hợp với bạn.
 
 ## 2. Visual (Thị giác)
+```mermaid
+flowchart TD
+Visual
+A["Unity UI <br> UI Elements <br> TextMeshPro <br> ..."] --UI-->Visual
+B["Lighting<br>Shaders<br>Shader Graph<br> ..."] --"2D/3D"--> Visual
+C["Animation<br>Animator<br>Timeline<br>Tween<br>..."] --Animation-->Visual
+```
