@@ -37,3 +37,10 @@ A["Unity UI <br> UI Elements <br> TextMeshPro <br> ..."] --UI-->Visual
 B["Lighting<br>Shaders<br>Shader Graph<br> ..."] --"2D/3D"--> Visual
 C["Animation<br>Animator<br>Timeline<br>Tween<br>..."] --Animation-->Visual
 ```
+
+### UI
+- Unity UI, TextMeshPro,... không khó để tìm hiểu và làm quen với nó, xem [tại đây](https://learn.unity.com/mission/61a63fbcedbc2a0020607294?pathwayId=61a65568edbc2a00206076dd)
+### 2D/3D
+- Bạn cần hiểu về Lighting và cách nó hoạt động,  bạn có thể xem [tại đây](https://learn.unity.com/mission/creative-core-lighting?pathwayId=61a65568edbc2a00206076dd)
+- Shader và ngôn ngữ shader. Bạn có thể tìm hiểu về phần này, nhưng mình thấy nó khá khó nhằn nên mình thường tìm kiếm các shader có sẵn hoặc sử dụng chat GPT để tạo shader mong muốn.
+- Shader Graph để lập trình shader trực quan mà không phải code, xem [tại đây](https://learn.unity.com/tutorial/introduction-to-shader-graph#)
