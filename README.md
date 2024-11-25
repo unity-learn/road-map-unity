@@ -50,3 +50,11 @@ C["Animation<br>Animator<br>Timeline<br>Tween<br>..."] --Animation-->Visual
 - Tween: Tìm hiểu [DOTween](https://dotween.demigiant.com/), [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween), [LitMotion](https://github.com/AnnulusGames/LitMotion), ... Tất cả đều rất tuyệt vời. Hãy chọn một loại phù hợp với bạn nhất
 
 ## 3. Project Architecture (Kiến trúc)
+
+```mermaid
+flowchart TD
+p[Project Architecture]
+b["SOLID<br>KISS<br>DRY<br>..."] --Design principles-->p
+c["Singleton<br>Observer"<br>State<br>Strategy<br>Command<br>ObjectPool<br>...]--Design patterns-->p
+a["<a href='https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html'>MC* Patterns"</a><br>OOP<br>ECS<br>...]--Architectural Patterns-->p
+```
