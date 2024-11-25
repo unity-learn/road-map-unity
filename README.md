@@ -48,3 +48,5 @@ C["Animation<br>Animator<br>Timeline<br>Tween<br>..."] --Animation-->Visual
 - Animation và Animator là những thành phần cơ bản của Unity, xem [tại đây](https://medium.com/@alinulken/unity-developer-roadmap-97108405a7dd)
 - Timeline phù hợp với các tình huống tạo một cảnh dài bao gồm nhiều hoạt ảnh, âm thanh, ...
 - Tween: Tìm hiểu [DOTween](https://dotween.demigiant.com/), [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween), [LitMotion](https://github.com/AnnulusGames/LitMotion), ... Tất cả đều rất tuyệt vời. Hãy chọn một loại phù hợp với bạn nhất
+
+## 3. Project Architecture (Kiến trúc)
