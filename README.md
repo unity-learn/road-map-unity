@@ -44,3 +44,7 @@ C["Animation<br>Animator<br>Timeline<br>Tween<br>..."] --Animation-->Visual
 - Bạn cần hiểu về Lighting và cách nó hoạt động,  bạn có thể xem [tại đây](https://learn.unity.com/mission/creative-core-lighting?pathwayId=61a65568edbc2a00206076dd)
 - Shader và ngôn ngữ shader. Bạn có thể tìm hiểu về phần này, nhưng mình thấy nó khá khó nhằn nên mình thường tìm kiếm các shader có sẵn hoặc sử dụng chat GPT để tạo shader mong muốn.
 - Shader Graph để lập trình shader trực quan mà không phải code, xem [tại đây](https://learn.unity.com/tutorial/introduction-to-shader-graph#)
+### Animation
+- Animation và Animator là những thành phần cơ bản của Unity, xem [tại đây](https://medium.com/@alinulken/unity-developer-roadmap-97108405a7dd)
+- Timeline phù hợp với các tình huống tạo một cảnh dài bao gồm nhiều hoạt ảnh, âm thanh, ...
+- Tween: Tìm hiểu [DOTween](https://dotween.demigiant.com/), [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween), [LitMotion](https://github.com/AnnulusGames/LitMotion),... Tất cả đều rất tuyệt vời. Hãy chọn một loại phù hợp với bạn nhất
